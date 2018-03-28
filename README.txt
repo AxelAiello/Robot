@@ -1,4 +1,6 @@
-﻿Le projet utilise notamment le compilateur g++, il faut donc l'avoir à jour.
+# Robot
+
+Le projet utilise notamment le compilateur g++, il faut donc l'avoir à jour.
 
 L'objectif du projet est de modéliser le comportement d'un robot par les actions d'écrites dans le fichier Rapport.pdf dans son diagramme d'état. 
 
